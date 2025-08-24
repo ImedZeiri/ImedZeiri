@@ -1,36 +1,48 @@
-<!-- Hero Section with Professional Branding -->
+<!-- Premium Hero Section with Advanced Animations -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30,75&height=200&section=header&text=Imed%20Zeiri&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer&descSize=18&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,75,100&height=280&section=header&text=IMED%20ZEIRI&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Senior%20Full%20Stack%20Developer%20%7C%20Java%20%26%20Angular%20Expert&descSize=20&descAlignY=65" width="100%"/>
 </div>
 
-<!-- Dynamic Professional Title -->
+<!-- High-Quality Animated Professional Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Senior+Full+Stack+Developer+%F0%9F%8E%AF;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular+Expert+%E2%9A%A1;Microservices+%26+Real-Time+Systems+%F0%9F%9A%80;Performance+Optimization+Specialist+%F0%9F%94%A7;2%2B+Years+Enterprise+Experience+%F0%9F%8F%86" alt="Professional Title Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </div>
 
-<!-- Professional Metrics Banner -->
+<!-- Premium Dynamic Professional Title -->
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=%F0%9F%9A%80+Senior+Full+Stack+Developer;%E2%9A%A1+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular+Expert;%F0%9F%8C%90+Microservices+%26+Real-Time+Systems;%F0%9F%94%A7+Performance+Optimization+Specialist;%F0%9F%8F%86+2%2B+Years+Enterprise+Experience;%F0%9F%8E%AF+Building+Scalable+Solutions" alt="Professional Expertise Animation" />
+</div>
+
+<!-- Executive Professional Metrics Dashboard -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50">
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Experience-2%2B%20Years-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Experience-2%2B%20Years-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Projects-15%2B-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Projects-15%2B-4ECDC4?style=for-the-badge&logo=repo&logoColor=white" alt="Projects"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Performance-60%25%20Improved-45B7D1?style=for-the-badge&logo=trending-up&logoColor=white" alt="Performance"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Performance-60%25%20Boost-45B7D1?style=for-the-badge&logo=graph&logoColor=white" alt="Performance"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-96CEB4?style=for-the-badge&logo=handshake&logoColor=white" alt="Availability"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Availability-Open%20to%20Work-96CEB4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Availability"/>
       </td>
     </tr>
   </table>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50">
 </div>
 
-<!-- Animated Developer GIF -->
+<!-- Premium Developer Showcase GIF -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
+</div>
+
+<!-- Technical Excellence Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
 
 <!-- Professional Experience Timeline -->
@@ -226,26 +238,192 @@ class ImedZeiri {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40"/> Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40"/> Tech Stack Arsenal
+
+<!-- Premium Tech Stack Showcase -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"/> Backend Technologies
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="80" height="80" />
+        <br><strong>Java 17+</strong>
+        <br><sub>Core Language</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="80" height="80" />
+        <br><strong>Spring Boot</strong>
+        <br><sub>Framework</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" height="80" />
+        <br><strong>Microservices</strong>
+        <br><sub>Architecture</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="80" height="80" />
+        <br><strong>Hibernate</strong>
+        <br><sub>ORM</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="80" height="80" />
+        <br><strong>Maven</strong>
+        <br><sub>Build Tool</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-| **Backend** | **Frontend** | **Database** | **DevOps & Tools** |
-|:-----------:|:------------:|:------------:|:------------------:|
-| <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" /> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" /> |
-| <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" width="50" height="50" /> | <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" width="50" height="50" /> | <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width="50" height="50" /> | <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="50" height="50" /> |
-| <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984c.png" alt="Maven" width="50" height="50" /> | <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" width="50" height="50" /> | <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" width="50" height="50" /> | <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="50" height="50" /> |
-| <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" width="50" height="50" /> | <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="50" height="50" /> | <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc400-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" width="50" height="50" /> | <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="50" height="50" /> |
-| <img src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" width="50" height="50" /> | <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="50" height="50" /> | <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width="50" height="50" /> | <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" width="50" height="50" /> |
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d0a.gif" width="30"/> Frontend Technologies
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="80" height="80" />
+        <br><strong>Angular 17+</strong>
+        <br><sub>Framework</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="80" height="80" />
+        <br><strong>TypeScript</strong>
+        <br><sub>Language</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" height="80" />
+        <br><strong>RxJS</strong>
+        <br><sub>Reactive</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80" height="80" />
+        <br><strong>HTML5</strong>
+        <br><sub>Markup</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80" height="80" />
+        <br><strong>CSS3</strong>
+        <br><sub>Styling</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257471-2d9b11a2-248e-4c0f-b8c2-75f1d1e1999e.gif" width="30"/> Database & Storage
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="80" height="80" />
+        <br><strong>PostgreSQL</strong>
+        <br><sub>Primary DB</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="80" height="80" />
+        <br><strong>MySQL</strong>
+        <br><sub>Relational</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="80" height="80" />
+        <br><strong>MongoDB</strong>
+        <br><sub>NoSQL</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="80" height="80" />
+        <br><strong>Redis</strong>
+        <br><sub>Caching</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dbb2bd1c8ec.gif" width="30"/> DevOps & Cloud
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80" height="80" />
+        <br><strong>Docker</strong>
+        <br><sub>Containers</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" height="80" />
+        <br><strong>AWS</strong>
+        <br><sub>Cloud</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" height="80" />
+        <br><strong>CI/CD</strong>
+        <br><sub>Automation</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80" height="80" />
+        <br><strong>Git</strong>
+        <br><sub>Version Control</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="80" height="80" />
+        <br><strong>Linux</strong>
+        <br><sub>OS</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Animated Skills Icons Showcase -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+  <br>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,angular,typescript,javascript,html,css,bootstrap,sass,nodejs,postgresql,mysql,mongodb,redis,docker,aws,git,github,gitlab,vscode,idea,linux,postman&perline=13&theme=dark" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+</div>
+
+<!-- Premium GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImedZeiri&theme=react-dark&bg_color=1a1b27&color=38d9a9&line=38d9a9&point=38d9a9&area_color=38d9a9&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+</div>
+
+<!-- Professional Competency Radar -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
+  <h3>🎯 Professional Competency Matrix</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,angular,typescript,javascript,html,css,bootstrap,mysql,postgresql,mongodb,docker,git,vscode,idea,linux&perline=9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImedZeiri&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%"/>
+  <table>
+    <tr>
+      <td align="center">
+        🔥 **Backend Development**<br>
+        <progress value="95" max="100"></progress><br>
+        <sub>Java, Spring Boot, Microservices</sub>
+      </td>
+      <td align="center">
+        ✨ **Frontend Development**<br>
+        <progress value="90" max="100"></progress><br>
+        <sub>Angular, TypeScript, RxJS</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        🗄️ **Database Design**<br>
+        <progress value="88" max="100"></progress><br>
+        <sub>SQL, NoSQL, Optimization</sub>
+      </td>
+      <td align="center">
+        🚀 **DevOps & Cloud**<br>
+        <progress value="82" max="100"></progress><br>
+        <sub>Docker, AWS, CI/CD</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -502,13 +680,34 @@ export class ExpertiseComponent {
 
 ---
 
+<!-- Premium Profile Analytics Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+  <h2>📊 Profile Analytics & Engagement</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImedZeiri&color=36BCF7&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ImedZeiri?label=Followers&style=for-the-badge&color=36BCF7" alt="followers" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/github/followers/ImedZeiri?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="followers"/>
+      </td>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=ImedZeiri&color=00D8FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+      </td>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/github/stars/ImedZeiri?color=55960c&style=for-the-badge&logo=star&label=GitHub+Stars" alt="stars"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Advanced GitHub Contribution Snake Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  <h3>🐍 GitHub Contribution Snake</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 </div>
 
 <div align="center">
@@ -519,21 +718,62 @@ export class ExpertiseComponent {
   </picture>
 </div>
 
+<!-- Professional Quote Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"/>
-  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"/>
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Clean%20code%20is%20not%20written%20by%20following%20a%20set%20of%20rules.%20You%20don't%20become%20a%20software%20craftsman%20by%20learning%20a%20list%20of%20heuristics.%20Professionalism%20and%20craftsmanship%20come%20from%20values%20that%20drive%20disciplines.&author=Robert%20C.%20Martin" alt="Professional Quote"/>
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"/>
+</div>
+
+<!-- Call to Action Section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+  <h2>🚀 Ready to Collaborate?</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+        <h4>🔥 Open Source</h4>
+        <p>Contributing to amazing projects</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+        <h4>👼 Freelance</h4>
+        <p>Available for exciting projects</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
+        <h4>🌟 Full-Time</h4>
+        <p>Looking for new opportunities</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<!-- Premium Footer with Wave Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,75,100&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+<!-- Final Thank You Message -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="150">
+  <br><br>
+  <h1>🚀 Thank You for Visiting! 🚀</h1>
+  <h3>🌟 Let's Build Something Amazing Together! 🌟</h3>
+  <p><em>Ready to turn ideas into exceptional digital experiences</em></p>
   <br>
-  <strong>Thanks for visiting! Let's build something amazing together! 🚀</strong>
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="150">
+</div>
+
+<!-- Dynamic Footer Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
