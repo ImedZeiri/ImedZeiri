@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,75,100&height=280&section=header&text=IMED%20ZEIRI&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Senior%20Full%20Stack%20Developer%20%7C%20Java%20%26%20Angular%20Expert&descSize=20&descAlignY=65" width="100%"/>
 </div>
 
-<!-- High-Quality Animated Professional Banner -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
-</div>
-
 <!-- Premium Dynamic Professional Title -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=%F0%9F%9A%80+Senior+Full+Stack+Developer;%E2%9A%A1+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular+Expert;%F0%9F%8C%90+Microservices+%26+Real-Time+Systems;%F0%9F%94%A7+Performance+Optimization+Specialist;%F0%9F%8F%86+2%2B+Years+Enterprise+Experience;%F0%9F%8E%AF+Building+Scalable+Solutions" alt="Professional Expertise Animation" />
@@ -15,7 +10,6 @@
 
 <!-- Executive Professional Metrics Dashboard -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50">
   <table>
     <tr>
       <td align="center">
@@ -32,23 +26,69 @@
       </td>
     </tr>
   </table>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50">
 </div>
 
-<!-- Premium Developer Showcase GIF -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
-</div>
+---
 
-<!-- Technical Excellence Banner -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-</div>
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="40" /> About Me
 
-<!-- Professional Experience Timeline -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
+<table>
+<tr>
+<td width="50%">
+
+```typescript
+class ImedZeiri {
+  name: string = "Imed Zeiri";
+  role: string = "Senior Full Stack Developer";
+  location: string = "Tunisia";
+  
+  languages: string[] = [
+    "Java", "TypeScript", "JavaScript", "SQL"
+  ];
+  
+  frameworks: string[] = [
+    "Spring Boot", "Angular", "Hibernate"
+  ];
+  
+  databases: string[] = [
+    "PostgreSQL", "MySQL", "MongoDB", "Redis"
+  ];
+  
+  architecture: string[] = [
+    "Microservices", "REST APIs", "Event-Driven"
+  ];
+  
+  currentlyLearning() {
+    return "Cloud Technologies & DevOps";
+  }
+  
+  funFact() {
+    return "I debug better with coffee! ☕";
+  }
+}
+```
+
+</td>
+<td width="50%">
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"/> What I Do
+
+🔸 **Full Stack Development** - Building end-to-end web applications  
+🔸 **Backend Architecture** - Designing scalable Java/Spring Boot systems  
+🔸 **Frontend Excellence** - Creating responsive Angular interfaces  
+🔸 **Database Design** - Optimizing queries and data structures  
+🔸 **API Development** - RESTful services and microservices  
+🔸 **DevOps Integration** - CI/CD pipelines and containerization  
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"/> Philosophy
+
+*"Clean code is not written by following a set of rules. Professionalism and craftsmanship come from values that drive disciplines."*
+
+</td>
+</tr>
+</table>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="40" /> Professional Experience
 
@@ -59,10 +99,6 @@
 </div>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"/> Current Role
-
-<table>
-<tr>
-<td width="100%">
 
 #### 🚀 **Senior Full Stack Developer** | [Cric Payz](https://cricpayz.com) 
 **📅 March 2025 - Present** | **🏢 Real-Time Sports Betting Platform**
@@ -82,19 +118,11 @@
 
 **💻 Tech Stack:** `Java` `Spring Boot` `Angular` `WebSockets` `HLS.js` `Redis` `Docker` `PostgreSQL` `AWS` `JWT`
 
-</td>
-</tr>
-</table>
-
 ### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"/> Previous Experiences
 
 <details>
 <summary><b>🏢 Smart Conseil - Full Stack Developer (Aug 2023 - Feb 2025)</b></summary>
 <br>
-
-<table>
-<tr>
-<td width="100%">
 
 #### 🛡️ **Full Stack Developer** | [Smart Conseil](https://smartconseil.com)
 **📅 August 2023 - February 2025** | **🏫 Parental Control & School Safety Platform**
@@ -114,19 +142,11 @@
 
 **💻 Tech Stack:** `Java` `Spring Boot` `Angular` `TypeScript` `Redis` `Microservices` `REST APIs` `Matomo`
 
-</td>
-</tr>
-</table>
-
 </details>
 
 <details>
 <summary><b>🏢 Fontenay-IT - Full Stack Developer (Dec 2022 - Jun 2023)</b></summary>
 <br>
-
-<table>
-<tr>
-<td width="100%">
 
 #### 👥 **Full Stack Developer** | [Fontenay-IT](https://fontenay-it.com)
 **📅 December 2022 - June 2023** | **🏢 HR Process Automation Platform**
@@ -145,10 +165,6 @@
 - 👥 **Agile Collaboration** - Worked in cross-functional teams delivering features iteratively
 
 **💻 Tech Stack:** `Java` `Spring Boot` `Angular` `Docker` `Redis` `JMeter` `GitHub Actions` `PostgreSQL`
-
-</td>
-</tr>
-</table>
 
 </details>
 
@@ -177,73 +193,9 @@
   </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> About Me
-
-<table>
-<tr>
-<td width="50%">
-
-```typescript
-class ImedZeiri {
-  name: string = "Imed Zeiri";
-  role: string = "Full Stack Developer";
-  
-  languages: string[] = [
-    "Java", "TypeScript", "JavaScript", "SQL"
-  ];
-  
-  frameworks: string[] = [
-    "Spring Boot", "Angular", "Hibernate"
-  ];
-  
-  databases: string[] = [
-    "MySQL", "PostgreSQL", "MongoDB"
-  ];
-  
-  architecture: string[] = [
-    "Microservices", "REST APIs", "MVC"
-  ];
-  
-  currentlyLearning() {
-    return "Cloud Technologies & DevOps";
-  }
-  
-  funFact() {
-    return "I debug better with coffee! ☕";
-  }
-}
-```
-
-</td>
-<td width="50%">
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"/> What I Do
-
-🔸 **Full Stack Development** - Building end-to-end web applications  
-🔸 **Backend Architecture** - Designing scalable Java/Spring Boot systems  
-🔸 **Frontend Magic** - Creating responsive Angular interfaces  
-🔸 **Database Design** - Optimizing queries and data structures  
-🔸 **API Development** - RESTful services and microservices  
-🔸 **DevOps Integration** - CI/CD pipelines and containerization  
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"/> Philosophy
-
-*"Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines."*
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40"/> Tech Stack Arsenal
-
-<!-- Premium Tech Stack Showcase -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-</div>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"/> Backend Technologies
 
@@ -378,57 +330,10 @@ class ImedZeiri {
 
 <!-- Animated Skills Icons Showcase -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-  <br>
   <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,angular,typescript,javascript,html,css,bootstrap,sass,nodejs,postgresql,mysql,mongodb,redis,docker,aws,git,github,gitlab,vscode,idea,linux,postman&perline=13&theme=dark" />
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
 </div>
 
-<!-- Premium GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImedZeiri&theme=react-dark&bg_color=1a1b27&color=38d9a9&line=38d9a9&point=38d9a9&area_color=38d9a9&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-</div>
-
-<!-- Professional Competency Radar -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
-  <h3>🎯 Professional Competency Matrix</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        🔥 **Backend Development**<br>
-        <progress value="95" max="100"></progress><br>
-        <sub>Java, Spring Boot, Microservices</sub>
-      </td>
-      <td align="center">
-        ✨ **Frontend Development**<br>
-        <progress value="90" max="100"></progress><br>
-        <sub>Angular, TypeScript, RxJS</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        🗄️ **Database Design**<br>
-        <progress value="88" max="100"></progress><br>
-        <sub>SQL, NoSQL, Optimization</sub>
-      </td>
-      <td align="center">
-        🚀 **DevOps & Cloud**<br>
-        <progress value="82" max="100"></progress><br>
-        <sub>Docker, AWS, CI/CD</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"/> What I'm Currently Working On
 
@@ -461,9 +366,7 @@ graph LR
 - 📱 **Modern Frontend** - Creating responsive, accessible user experiences
 - 🔒 **Security Focus** - JWT authentication, OAuth2, and secure coding practices
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40"/> Core Competencies & Skills
 
@@ -584,6 +487,8 @@ export class ExpertiseComponent {
   </table>
 </div>
 
+---
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"/> Continuous Learning & Development
 
 <table>
@@ -639,12 +544,14 @@ export class ExpertiseComponent {
         <br><sub><b>Bilingual communication</b></sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Visa-EU%20Citizen-green?style=for-the-badge&logo=passport&logoColor=white"/>
-        <br><sub><b>No sponsorship required</b></sub>
+        <img src="https://img.shields.io/badge/Location-Tunisia-green?style=for-the-badge&logo=location&logoColor=white"/>
+        <br><sub><b>Based in Tunisia</b></sub>
       </td>
     </tr>
   </table>
 </div>
+
+---
 
 ## 📈 GitHub Stats
 
@@ -656,6 +563,13 @@ export class ExpertiseComponent {
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ImedZeiri&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
+<!-- Premium GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImedZeiri&theme=react-dark&bg_color=1a1b27&color=38d9a9&line=38d9a9&point=38d9a9&area_color=38d9a9&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+</div>
+
+---
 
 ## 🤝 Let's Connect!
 
@@ -671,6 +585,8 @@ export class ExpertiseComponent {
   </a>
 </div>
 
+---
+
 ## 💡 Fun Facts
 
 - ⚡ I love optimizing code performance and database queries
@@ -680,11 +596,9 @@ export class ExpertiseComponent {
 
 ---
 
-<!-- Premium Profile Analytics Section -->
+<!-- Profile Analytics Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
   <h2>📊 Profile Analytics & Engagement</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 </div>
 
 <div align="center">
@@ -703,11 +617,9 @@ export class ExpertiseComponent {
   </table>
 </div>
 
-<!-- Advanced GitHub Contribution Snake Animation -->
+<!-- GitHub Contribution Snake Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
   <h3>🐍 GitHub Contribution Snake</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 </div>
 
 <div align="center">
@@ -720,18 +632,12 @@ export class ExpertiseComponent {
 
 <!-- Professional Quote Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"/>
-  <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Clean%20code%20is%20not%20written%20by%20following%20a%20set%20of%20rules.%20You%20don't%20become%20a%20software%20craftsman%20by%20learning%20a%20list%20of%20heuristics.%20Professionalism%20and%20craftsmanship%20come%20from%20values%20that%20drive%20disciplines.&author=Robert%20C.%20Martin" alt="Professional Quote"/>
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"/>
 </div>
 
 <!-- Call to Action Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
   <h2>🚀 Ready to Collaborate?</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
 </div>
 
 <div align="center">
@@ -771,9 +677,3 @@ export class ExpertiseComponent {
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="150">
 </div>
-
-<!-- Dynamic Footer Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
